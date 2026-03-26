@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "クリスマスの日じゃなくていいから",
+  "base_artist": "『ユイカ』",
+  "createdAt": "2026-03-26T00:59:38.669157Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クリスマスの日じゃなくていいから / 『ユイカ』【Official Audio】",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/01_クリスマスの日じゃなくていいから___『ユイカ』【Official_Audio】_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "クリスマスの日じゃなくていいから",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/02_クリスマスの日じゃなくていいから_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "クリスマスの日じゃなくていいから",
+      "artist": "Yuika",
+      "has_synced": true,
+      "path": "select/03_クリスマスの日じゃなくていいから_Yuika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クリスマスの日じゃなくていいから",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_クリスマスの日じゃなくていいから_『ユイカ』.txt"
+    }
+  ]
+}
